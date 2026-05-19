@@ -1,0 +1,152 @@
+
+==================================================
+[n1] ECG: ECG1-ECG2 | EEG: F1-F3 | sfreq: 512.0 Hz
+[n1] HEP: 40105 valid epochs, 60 rejected (0.1%)
+  W: PE n=32 mean=0.6273 | HEP n=1059 mean=22.86µV
+  N1: PE n=23 mean=0.6395 | HEP n=814 mean=18.98µV
+  N2: PE n=486 mean=0.5995 | HEP n=16146 mean=16.90µV
+  N3: PE n=313 mean=0.5766 | HEP n=11614 mean=24.30µV
+  R: PE n=234 mean=0.6103 | HEP n=8197 mean=14.41µV
+
+==================================================
+[n2] ECG: ECG1-ECG2 | EEG: Fp2-F4 | sfreq: 512.0 Hz
+[n2] HEP: 5395 valid epochs, 3 rejected (0.1%)
+  W: PE n=8 mean=0.6669 | HEP n=328 mean=19.99µV
+  N1: PE n=12 mean=0.6418 | HEP n=466 mean=25.22µV
+  N2: PE n=48 mean=0.6495 | HEP n=1818 mean=30.22µV
+  N3: PE n=68 mean=0.6370 | HEP n=2458 mean=29.75µV
+  R: PE n=0 mean=nan | HEP n=0 mean=nanµV
+
+==================================================
+[n3] ECG: ECG1-ECG2 | EEG: FP1-F3 | sfreq: 512.0 Hz
+[n3] HEP: 2387 valid epochs, 34 rejected (1.4%)
+  W: PE n=23 mean=0.6827 | HEP n=750 mean=28.96µV
+  N1: PE n=5 mean=0.6807 | HEP n=187 mean=36.48µV
+  N2: PE n=13 mean=0.6949 | HEP n=427 mean=30.13µV
+  N3: PE n=24 mean=0.6951 | HEP n=763 mean=34.15µV
+  R: PE n=0 mean=nan | HEP n=0 mean=nanµV
+
+==================================================
+[n4] ECG: ekg | EEG: Fp2-F4 | sfreq: 200.0 Hz
+[n4] HEP: 37906 valid epochs, 222 rejected (0.6%)
+  W: PE n=220 mean=0.8251 | HEP n=7614 mean=36.39µV
+  N1: PE n=15 mean=0.7899 | HEP n=440 mean=21.40µV
+  N2: PE n=387 mean=0.7727 | HEP n=12413 mean=30.57µV
+  N3: PE n=134 mean=0.7556 | HEP n=4305 mean=28.63µV
+  R: PE n=194 mean=0.7506 | HEP n=5825 mean=29.63µV
+
+==================================================
+[n5] ECG: ECG1-ECG2 | EEG: FP1-F3 | sfreq: 512.0 Hz
+[n5] HEP: 35760 valid epochs, 11 rejected (0.0%)
+  W: PE n=8 mean=0.6508 | HEP n=229 mean=24.20µV
+  N1: PE n=36 mean=0.6158 | HEP n=1157 mean=16.92µV
+  N2: PE n=391 mean=0.6058 | HEP n=13421 mean=18.23µV
+  N3: PE n=296 mean=0.5887 | HEP n=10492 mean=20.05µV
+  R: PE n=227 mean=0.6012 | HEP n=7666 mean=18.35µV
+
+==================================================
+[n6] ECG: ECG | EEG: C3-A2 | sfreq: 128.0 Hz
+[n6] HEP: 28235 valid epochs, 326 rejected (1.1%)
+  W: PE n=55 mean=0.9782 | HEP n=1461 mean=53.48µV
+  N1: PE n=7 mean=0.9808 | HEP n=211 mean=38.74µV
+  N2: PE n=473 mean=0.9593 | HEP n=12617 mean=40.32µV
+  N3: PE n=199 mean=0.9322 | HEP n=5442 mean=49.78µV
+  R: PE n=260 mean=0.9706 | HEP n=7129 mean=30.20µV
+
+==================================================
+[n7] ECG: ECG | EEG: C3-A2 | sfreq: 128.0 Hz
+[n7] HEP: 32571 valid epochs, 892 rejected (2.7%)
+  W: PE n=60 mean=0.9495 | HEP n=1681 mean=59.11µV
+  N1: PE n=9 mean=0.9414 | HEP n=209 mean=42.07µV
+  N2: PE n=394 mean=0.9030 | HEP n=12868 mean=49.63µV
+  N3: PE n=242 mean=0.8454 | HEP n=7981 mean=88.20µV
+  R: PE n=243 mean=0.9184 | HEP n=8638 mean=36.91µV
+
+==================================================
+[n8] ECG: EKG | EEG: F4-C4 | sfreq: 200.0 Hz
+[n8] HEP: 32828 valid epochs, 1 rejected (0.0%)
+  W: PE n=117 mean=0.8104 | HEP n=3726 mean=16.76µV
+  N1: PE n=36 mean=0.8239 | HEP n=1160 mean=14.34µV
+  N2: PE n=384 mean=0.7994 | HEP n=12595 mean=16.74µV
+  N3: PE n=217 mean=0.7625 | HEP n=7427 mean=23.21µV
+  R: PE n=192 mean=0.8219 | HEP n=6280 mean=14.79µV
+
+==================================================
+[n9] ECG: ECG | EEG: C3-A2 | sfreq: 128.0 Hz
+[n9] HEP: 27078 valid epochs, 790 rejected (2.8%)
+  W: PE n=115 mean=0.9489 | HEP n=3384 mean=36.75µV
+  N1: PE n=25 mean=0.9352 | HEP n=740 mean=25.08µV
+  N2: PE n=462 mean=0.8674 | HEP n=11663 mean=37.91µV
+  N3: PE n=173 mean=0.8134 | HEP n=4523 mean=55.06µV
+  R: PE n=222 mean=0.9151 | HEP n=5965 mean=29.23µV
+
+==================================================
+[n10] ECG: ECG1-ECG2 | EEG: FP1-F3 | sfreq: 512.0 Hz
+[n10] HEP: 35312 valid epochs, 16 rejected (0.0%)
+  W: PE n=63 mean=0.6528 | HEP n=2308 mean=25.47µV
+  N1: PE n=2 mean=0.6623 | HEP n=74 mean=22.63µV
+  N2: PE n=249 mean=0.5503 | HEP n=8829 mean=41.51µV
+  N3: PE n=302 mean=0.5751 | HEP n=10989 mean=32.63µV
+  R: PE n=211 mean=0.5560 | HEP n=7968 mean=28.48µV
+
+==================================================
+[n11] ECG: ECG1-ECG2 | EEG: FP1-F3 | sfreq: 512.0 Hz
+[n11] HEP: 32629 valid epochs, 93 rejected (0.3%)
+  W: PE n=55 mean=0.6895 | HEP n=1452 mean=31.53µV
+  N1: PE n=5 mean=0.6913 | HEP n=160 mean=15.61µV
+  N2: PE n=257 mean=0.6218 | HEP n=7765 mean=18.42µV
+  N3: PE n=340 mean=0.5860 | HEP n=11216 mean=30.95µV
+  R: PE n=375 mean=0.6306 | HEP n=11395 mean=18.33µV
+
+==================================================
+[n12] ECG: EKG | EEG: C3-A2 | sfreq: 100.0 Hz
+[n12] HEP: 30512 valid epochs, 108 rejected (0.4%)
+  W: PE n=30 mean=0.9531 | HEP n=271 mean=41.88µV
+  N1: PE n=3 mean=0.8641 | HEP n=100 mean=33.55µV
+  N2: PE n=412 mean=0.8155 | HEP n=12795 mean=41.45µV
+  N3: PE n=224 mean=0.7778 | HEP n=6899 mean=53.67µV
+  R: PE n=293 mean=0.8719 | HEP n=9531 mean=31.56µV
+
+==================================================
+[n13] ECG: ECG | EEG: F3A2 | sfreq: 200.0 Hz
+[n13] HEP: 0 valid epochs, 32181 rejected (100.0%)
+  W: PE n=0 mean=nan | HEP n=0 mean=nanµV
+  N1: PE n=0 mean=nan | HEP n=0 mean=nanµV
+  N2: PE n=0 mean=nan | HEP n=0 mean=nanµV
+  N3: PE n=0 mean=nan | HEP n=0 mean=nanµV
+  R: PE n=0 mean=nan | HEP n=0 mean=nanµV
+
+==================================================
+[n14] ECG: ECG | EEG: F3A2 | sfreq: 200.0 Hz
+[n14] HEP: 0 valid epochs, 34612 rejected (100.0%)
+  W: PE n=0 mean=nan | HEP n=0 mean=nanµV
+  N1: PE n=0 mean=nan | HEP n=0 mean=nanµV
+  N2: PE n=0 mean=nan | HEP n=0 mean=nanµV
+  N3: PE n=0 mean=nan | HEP n=0 mean=nanµV
+  R: PE n=0 mean=nan | HEP n=0 mean=nanµV
+
+==================================================
+[n15] ECG: EKG | EEG: F3A2 | sfreq: 200.0 Hz
+[n15] HEP: 0 valid epochs, 30145 rejected (100.0%)
+  W: PE n=0 mean=nan | HEP n=0 mean=nanµV
+  N1: PE n=0 mean=nan | HEP n=0 mean=nanµV
+  N2: PE n=0 mean=nan | HEP n=0 mean=nanµV
+  N3: PE n=0 mean=nan | HEP n=0 mean=nanµV
+  R: PE n=0 mean=nan | HEP n=0 mean=nanµV
+
+==================================================
+[SKIP] n16: no ECG channel
+
+==================================================
+Saved: results_per_subject_stage.csv
+Subjects processed: 15
+
+Stage counts:
+      pe_mean       hep_pp_mean      
+         mean count        mean count
+stage                                
+N1     0.7722    12     25.9184    12
+N2     0.7366    12     31.0019    12
+N3     0.7121    12     39.1989    12
+R      0.7647    10     25.1880    10
+W      0.7863    12     33.1134    12
