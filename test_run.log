@@ -1,0 +1,71 @@
+Loaded 75 rows from results_two_component.csv
+Subjects: 15, cross-channel: 15, within-channel: 0
+
+Per-subject coupling table:
+stage      W     N3      R
+sub                       
+n1     0.089  0.141  0.038
+n10    0.078  0.002 -0.021
+n11    0.302  0.251 -0.154
+n12    0.310  0.595  0.469
+n2     0.222  0.163  0.176
+n3     0.235  0.151  0.193
+n4     0.164 -0.148 -0.082
+n5    -0.022  0.066  0.108
+n6     0.028  0.127  0.086
+n7     0.025  0.122  0.075
+n8     0.179  0.395  0.257
+n9     0.233  0.170  0.162
+
+Per-stage descriptive statistics:
+stage        W      N3       R
+mean     0.153   0.170   0.109
+std      0.112   0.187   0.164
+median   0.172   0.146   0.097
+count   12.000  12.000  12.000
+
+================================================================
+H1: Coupling(N3) > Coupling(R)  —  high B-precision tightens coupling
+================================================================
+Wilcoxon W=57.0, p=0.0881, r=0.390, n=12, g=0.443
+Verdict: NOT CONFIRMED
+
+================================================================
+H2: Coupling(W) > Coupling(R)  —  REM lowest B-precision
+================================================================
+Wilcoxon W=44.0, p=0.3667, r=0.098, n=12, g=0.243
+Verdict: NOT CONFIRMED
+
+================================================================
+H3: Coupling(N3) vs Coupling(W)  —  two-tailed (no directional prior)
+================================================================
+Wilcoxon W=31.0, p=0.5693, r=0.164, n=12, g=0.094
+Verdict: NOT DIFFERENT  (N3 median = 0.146, W median = 0.172)
+
+================================================================
+Sensitivity: cross-channel subjects only (n = 15)
+================================================================
+Traceback (most recent call last):
+  File "/workspaces/csv-dissociation-sleep/test_two_component.py", line 138, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/workspaces/csv-dissociation-sleep/test_two_component.py", line 124, in main
+    wide_cross = wide.loc[cross_subs]
+                 ~~~~~~~~^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/pandas/core/indexing.py", line 1207, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/pandas/core/indexing.py", line 1438, in _getitem_axis
+    return self._getitem_iterable(key, axis=axis)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/pandas/core/indexing.py", line 1378, in _getitem_iterable
+    keyarr, indexer = self._get_listlike_indexer(key, axis)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/pandas/core/indexing.py", line 1576, in _get_listlike_indexer
+    keyarr, indexer = ax._get_indexer_strict(key, axis_name)
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/pandas/core/indexes/base.py", line 6302, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "/usr/local/python/3.12.1/lib/python3.12/site-packages/pandas/core/indexes/base.py", line 6355, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['n13', 'n14', 'n15'] not in index"

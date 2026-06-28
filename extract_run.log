@@ -1,0 +1,151 @@
+
+============================================================
+[n1] ECG: ECG1-ECG2 | FRONT: F1-F3 | POST: C3-P3 | mode: CROSS-channel
+[n1] HEP epochs: 14648 valid
+  W: n=  832  early= +0.91µV  late= +0.26µV  r=+0.089  slope=+0.062
+  N1: n=  362  early= +0.11µV  late= +0.03µV  r=-0.061  slope=-0.048
+  N2: n= 4667  early= +0.49µV  late= +0.24µV  r=+0.170  slope=+0.181
+  N3: n= 7611  early= +0.82µV  late= +0.71µV  r=+0.141  slope=+0.133
+  R: n= 1019  early= +0.83µV  late= +0.96µV  r=+0.038  slope=+0.033
+
+============================================================
+[n2] ECG: ECG1-ECG2 | FRONT: FP2-F4 | POST: C4-P4 | mode: CROSS-channel
+[n2] HEP epochs: 48213 valid
+  W: n= 4664  early= +0.13µV  late= +1.22µV  r=+0.222  slope=+0.162
+  N1: n= 4684  early= +0.05µV  late= +1.08µV  r=+0.144  slope=+0.100
+  N2: n=13043  early= -0.24µV  late= +1.16µV  r=+0.227  slope=+0.123
+  N3: n= 6632  early= -0.10µV  late= +0.82µV  r=+0.163  slope=+0.097
+  R: n= 5208  early= -0.28µV  late= +1.13µV  r=+0.176  slope=+0.122
+
+============================================================
+[n3] ECG: ECG1-ECG2 | FRONT: FP1-F3 | POST: C3-P3 | mode: CROSS-channel
+[n3] HEP epochs: 32602 valid
+  W: n= 3978  early= +0.79µV  late= +0.83µV  r=+0.235  slope=+0.200
+  N1: n= 1443  early= +0.84µV  late= +0.29µV  r=+0.169  slope=+0.146
+  N2: n=10177  early= +0.98µV  late= +0.45µV  r=+0.185  slope=+0.194
+  N3: n= 8583  early= +0.93µV  late= -0.21µV  r=+0.151  slope=+0.130
+  R: n= 5551  early= +0.72µV  late= +0.39µV  r=+0.193  slope=+0.197
+
+============================================================
+[n4] ECG: ekg | FRONT: FP2-F4 | POST: C4-P4 | mode: CROSS-channel
+[n4] HEP epochs: 37927 valid
+  W: n= 7673  early= -0.08µV  late= +0.36µV  r=+0.164  slope=+0.095
+  N1: n=  532  early= -0.44µV  late= -0.07µV  r=+0.265  slope=+0.276
+  N2: n=12846  early= +0.18µV  late= -0.43µV  r=-0.060  slope=-0.048
+  N3: n= 4465  early= +0.85µV  late= -0.87µV  r=-0.148  slope=-0.134
+  R: n= 5938  early= +0.61µV  late= -0.97µV  r=-0.082  slope=-0.076
+
+============================================================
+[n5] ECG: ECG1-ECG2 | FRONT: FP1-F3 | POST: C3-P3 | mode: CROSS-channel
+[n5] HEP epochs: 35659 valid
+  W: n=  294  early= +0.29µV  late= +0.29µV  r=-0.022  slope=-0.022
+  N1: n= 1598  early= +0.69µV  late= -0.58µV  r=+0.102  slope=+0.097
+  N2: n=14114  early= +0.49µV  late= -0.22µV  r=+0.071  slope=+0.075
+  N3: n=10730  early= +0.30µV  late= -0.13µV  r=+0.066  slope=+0.072
+  R: n= 7835  early= +0.55µV  late= -0.26µV  r=+0.108  slope=+0.109
+
+============================================================
+[n6] ECG: ECG | FRONT: C3-A2 | POST: O2-A1 | mode: CROSS-channel
+[n6] HEP epochs: 28265 valid
+  W: n= 1575  early= +2.83µV  late= -0.54µV  r=+0.028  slope=+0.032
+  N1: n=  374  early= +0.94µV  late= -0.11µV  r=+0.117  slope=+0.104
+  N2: n=13052  early= +1.98µV  late= -0.41µV  r=+0.097  slope=+0.089
+  N3: n= 5618  early= +0.78µV  late= -0.75µV  r=+0.127  slope=+0.106
+  R: n= 7229  early= +2.30µV  late= -0.00µV  r=+0.086  slope=+0.088
+
+============================================================
+[n7] ECG: ECG | FRONT: C3-A2 | POST: O2-A1 | mode: CROSS-channel
+[n7] HEP epochs: 32256 valid
+  W: n= 1812  early= -0.11µV  late= -0.69µV  r=+0.025  slope=+0.028
+  N1: n=  341  early= +0.88µV  late= +0.04µV  r=+0.017  slope=+0.016
+  N2: n=13209  early= +0.37µV  late= -0.28µV  r=+0.157  slope=+0.134
+  N3: n= 7750  early= +0.20µV  late= -0.85µV  r=+0.122  slope=+0.114
+  R: n= 8763  early= +0.83µV  late= +0.23µV  r=+0.075  slope=+0.078
+
+============================================================
+[n8] ECG: EKG | FRONT: F4-C4 | POST: C4-P4 | mode: CROSS-channel
+[n8] HEP epochs: 32825 valid
+  W: n= 3993  early= +0.08µV  late= +1.24µV  r=+0.179  slope=+0.192
+  N1: n= 1381  early= +0.41µV  late= +1.24µV  r=+0.283  slope=+0.284
+  N2: n=13188  early= +0.30µV  late= +0.92µV  r=+0.355  slope=+0.350
+  N3: n= 7660  early= +0.21µV  late= +1.04µV  r=+0.395  slope=+0.387
+  R: n= 6438  early= +0.07µV  late= +0.96µV  r=+0.257  slope=+0.373
+
+============================================================
+[n9] ECG: ECG | FRONT: C3-A2 | POST: O2-A1 | mode: CROSS-channel
+[n9] HEP epochs: 27102 valid
+  W: n= 3492  early= +1.00µV  late= -0.06µV  r=+0.233  slope=+0.271
+  N1: n=  826  early= +1.70µV  late= -0.25µV  r=+0.257  slope=+0.240
+  N2: n=11922  early= +1.32µV  late= -0.91µV  r=+0.181  slope=+0.136
+  N3: n= 4584  early= -0.34µV  late= -1.68µV  r=+0.170  slope=+0.140
+  R: n= 6065  early= +1.85µV  late= +0.31µV  r=+0.162  slope=+0.166
+
+============================================================
+[n10] ECG: ECG1-ECG2 | FRONT: FP1-F3 | POST: C3-P3 | mode: CROSS-channel
+[n10] HEP epochs: 35295 valid
+  W: n= 2400  early= -0.34µV  late= -0.58µV  r=+0.078  slope=+0.039
+  N1: n=   74  early= -0.94µV  late= +0.06µV  r=+0.130  slope=+0.055
+  N2: n= 9266  early= +0.32µV  late= +1.39µV  r=-0.038  slope=-0.030
+  N3: n=11193  early= +0.11µV  late= +1.38µV  r=+0.002  slope=+0.001
+  R: n= 8130  early= +0.37µV  late= +0.35µV  r=-0.021  slope=-0.015
+
+============================================================
+[n11] ECG: ECG1-ECG2 | FRONT: FP1-F3 | POST: C3-P3 | mode: CROSS-channel
+[n11] HEP epochs: 32600 valid
+  W: n= 1487  early= -0.42µV  late= +1.21µV  r=+0.302  slope=+0.192
+  N1: n=  193  early= +0.38µV  late= +0.49µV  r=+0.289  slope=+0.240
+  N2: n= 7990  early= +0.45µV  late= +0.54µV  r=-0.081  slope=-0.069
+  N3: n=11311  early= +1.13µV  late= -0.05µV  r=+0.251  slope=+0.233
+  R: n=11529  early= +0.37µV  late= +1.00µV  r=-0.154  slope=-0.132
+
+============================================================
+[n12] ECG: EKG | FRONT: C3-A2 | POST: O1-A2 | mode: CROSS-channel
+[n12] HEP epochs: 30515 valid
+  W: n=  286  early= +2.50µV  late= +0.30µV  r=+0.310  slope=+0.299
+  N1: n=  183  early= +0.34µV  late= -0.17µV  r=+0.556  slope=+0.657
+  N2: n=13161  early= +0.68µV  late= +0.82µV  r=+0.532  slope=+0.454
+  N3: n= 7001  early= +0.26µV  late= +0.44µV  r=+0.595  slope=+0.606
+  R: n= 9659  early= +0.77µV  late= +0.27µV  r=+0.469  slope=+0.376
+
+============================================================
+[n13] ECG: ECG | FRONT: F3A2 | POST: O1A2 | mode: CROSS-channel
+[n13] HEP epochs: 1 valid
+  W: n=    0  early=  +nanµV  late=  +nanµV  r=+nan  slope=+nan
+  N1: n=    0  early=  +nanµV  late=  +nanµV  r=+nan  slope=+nan
+  N2: n=    0  early=  +nanµV  late=  +nanµV  r=+nan  slope=+nan
+  N3: n=    0  early=  +nanµV  late=  +nanµV  r=+nan  slope=+nan
+  R: n=    0  early=  +nanµV  late=  +nanµV  r=+nan  slope=+nan
+
+============================================================
+[n14] ECG: ECG | FRONT: F3A2 | POST: O1A2 | mode: CROSS-channel
+[n14] HEP epochs: 2 valid
+  W: n=    0  early=  +nanµV  late=  +nanµV  r=+nan  slope=+nan
+  N1: n=    2  early=  +nanµV  late=  +nanµV  r=+nan  slope=+nan
+  N2: n=    0  early=  +nanµV  late=  +nanµV  r=+nan  slope=+nan
+  N3: n=    0  early=  +nanµV  late=  +nanµV  r=+nan  slope=+nan
+  R: n=    0  early=  +nanµV  late=  +nanµV  r=+nan  slope=+nan
+
+============================================================
+[n15] ECG: EKG | FRONT: F3A2 | POST: O1A2 | mode: CROSS-channel
+[n15] HEP epochs: 6 valid
+  W: n=    6  early=  +nanµV  late=  +nanµV  r=+nan  slope=+nan
+  N1: n=    0  early=  +nanµV  late=  +nanµV  r=+nan  slope=+nan
+  N2: n=    0  early=  +nanµV  late=  +nanµV  r=+nan  slope=+nan
+  N3: n=    0  early=  +nanµV  late=  +nanµV  r=+nan  slope=+nan
+  R: n=    0  early=  +nanµV  late=  +nanµV  r=+nan  slope=+nan
+
+============================================================
+[SKIP] n16: no ECG
+
+============================================================
+Saved: results_two_component.csv
+Subjects: 15  |  Cross-channel subjects: 15
+
+Per-stage coupling means (Pearson r):
+        mean    std  count
+stage                     
+N1     0.189  0.158     12
+N2     0.150  0.175     12
+N3     0.170  0.187     12
+R      0.109  0.164     12
+W      0.153  0.112     12
